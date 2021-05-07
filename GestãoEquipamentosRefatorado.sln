@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GestãoEquipamentosRefatorado", "GestãoEquipamentosRefatorado\GestãoEquipamentosRefatorado.csproj", "{8C92CB7E-3DB5-482D-9DB8-E0F5B45BA0A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C92CB7E-3DB5-482D-9DB8-E0F5B45BA0A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C92CB7E-3DB5-482D-9DB8-E0F5B45BA0A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C92CB7E-3DB5-482D-9DB8-E0F5B45BA0A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C92CB7E-3DB5-482D-9DB8-E0F5B45BA0A2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {74E7B6B8-BD0A-49FB-88A5-554391517C75}
+	EndGlobalSection
+EndGlobal
